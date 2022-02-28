@@ -1,0 +1,4 @@
+"""
+After typing uname without any option, the following result was printed:
+Linux
+"""
